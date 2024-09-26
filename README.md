@@ -3,7 +3,7 @@
 #### CV Developer / NLP Developer
 
 
-Developers who change the world
+Developers who change the world.
 A developers who preprocesing, training, and connect with public by AI
 
 🔧 Stacks
