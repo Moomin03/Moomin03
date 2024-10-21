@@ -1,10 +1,11 @@
 ### Hi, I'm HONGSEO JANG 👋
 
-#### CV Developer / NLP Developer
+#### Data Analyst
 
 
 Developers who change the world.
-A developers who preprocesing, training, and connect with public by AI
+
+A developer contributed for the future.
 
 🔧 Stacks
 
