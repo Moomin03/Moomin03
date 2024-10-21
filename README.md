@@ -1,6 +1,6 @@
 ### Hi, I'm HONGSEO JANG 👋
 
-#### 🙂‍↕️ Data Analyst
+### 🐶 Data Analyst
   Developers who change the world.
 
 🔧 Stacks
