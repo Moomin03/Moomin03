@@ -1,11 +1,8 @@
 ### Hi, I'm HONGSEO JANG 👋
 
 #### Data Analyst
-
-
-Developers who change the world.
-
-A developer contributed for the future.
+  Developers who change the world.
+  A developer contributed for the future.
 
 🔧 Stacks
 
