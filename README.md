@@ -28,6 +28,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)  
 
 
-🏆 Award
+📚 License
 
+
+🏆 Award
 
