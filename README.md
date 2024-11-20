@@ -3,10 +3,6 @@
 ### 🐶 Data Analyst
   Developers who change the world.
 
-😃 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moomin03&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 
 🔧 Stacks
 
@@ -52,4 +48,9 @@
 🔋 Personal Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moomin03&show_icons=true&theme=radical)
+
+
+😃 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moomin03&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
