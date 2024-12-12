@@ -34,8 +34,11 @@
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
 
 
+
 🎖️ Algorithms
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)
+
+
 
 
 
@@ -45,6 +48,7 @@
 |2024.11.29|ADsP 데이터 준전문가|2024.11.29~|
 ||||
 ||||
+
 
 
 🏆 Award
