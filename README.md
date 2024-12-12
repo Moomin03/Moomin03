@@ -36,6 +36,7 @@
 
 
 🎖️ Algorithms
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)
 
 
@@ -43,6 +44,7 @@
 
 
 📚 License
+
 |취득일|자격증|유효기간|
 |------|------|------|
 |2024.11.29|ADsP 데이터 준전문가|2024.11.29~|
@@ -52,6 +54,7 @@
 
 
 🏆 Award
+
 |None|None|None|
 |------|------|------|
 |None|None|None|
@@ -61,5 +64,6 @@
 
 
 🔋 Personal Stats
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Moomin03)](https://github.com/ryo-ma/github-profile-trophy)
 
