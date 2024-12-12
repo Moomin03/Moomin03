@@ -3,6 +3,11 @@
 ### 🐶 Data Analyst
   Developers who change the world.
 
+### ☎️ Contact
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongseojang/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](janghongseo@naver.com) [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](http://qr.kakao.com/talk/nF1LP0nAD4XBV1gDF52vpbFuPOo-)
+
+
+
 
 🔧 Stacks
 
@@ -48,6 +53,8 @@
 |None|None|None|
 ||||
 ||||
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Moomin03)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 🔋 Personal Stats
