@@ -35,7 +35,7 @@
 
 
 🎖️ Algorithms
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)  
 
 
 
@@ -54,10 +54,8 @@
 ||||
 ||||
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Moomin03)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 🔋 Personal Stats
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Moomin03)](https://github.com/ryo-ma/github-profile-trophy)
 
