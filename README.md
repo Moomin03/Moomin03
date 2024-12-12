@@ -16,7 +16,7 @@
 
 😃 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moomin03&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Moomin's Github Stats](https://github-readme-stats.vercel.app/api?username=Moomin03)](https://github.com/Moomin03/github-readme-stats)
 
 
 💡 Stack Specfic
