@@ -1,6 +1,6 @@
 ### Hi, I'm HONGSEO JANG 👋
 
-### 🐶 Data Analyst
+### 🐶 Data Analyst1
   I will always strive to learn and contribute to the world as a programmer.
 
 ### ☎️ Contact
